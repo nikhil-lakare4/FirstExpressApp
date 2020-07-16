@@ -1,0 +1,26 @@
+{
+  "name": "firstexpressapp",
+  "version": "1.0.0",
+  "description": "It is my first express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhil-lakare4/FirstExpressApp.git"
+  },
+  "keywords": [
+    "ExpressJs",
+    "NodeJs"
+  ],
+  "author": "Nikhil Lakare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhil-lakare4/FirstExpressApp/issues"
+  },
+  "homepage": "https://github.com/nikhil-lakare4/FirstExpressApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
